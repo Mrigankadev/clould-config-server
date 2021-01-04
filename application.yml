@@ -20,4 +20,4 @@ microservice:
         
         
 message:
- name: xyz
+ name: PQRS
